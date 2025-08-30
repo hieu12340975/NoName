@@ -1,0 +1,75 @@
+.img-1 {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.img-2 {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.img-3 {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.img-4 {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+  top: 205px;
+  right: 612px;
+}
+.img-5 {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+  top: 205px;
+  right: 612px;
+}
+.img-6 {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+  top: 205px;
+  right: 612px;
+}
+.img-7 {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+  top: 410px;
+  right: 1222px;
+}
+.img-8 {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+  top: 410px;
+  right: 1222px;
+}
+.img-9 {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+  top: 410px;
+  right: 1222px;
+}
+.clit:hover {
+  cursor: pointer;
+}
